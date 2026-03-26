@@ -81,14 +81,25 @@ Raw Data → Data Cleaning (Pandas) → MySQL Database → Backend (Node.js) →
 
 
 
-## Dashboard Preview
+## Dashboard 
 
-📸 *(Insert overview dashboard screenshot – page 17)*  
-📸 *(Insert EV ranking chart – page 19)*  
-📸 *(Insert ratio chart – page 21)*  
-📸 *(Insert fuel share chart – page 23)*  
-📸 *(Insert infrastructure growth chart – page 25)*  
-📸 *(Insert fuel sales chart – page 27)*  
+### Dashboard Overview
+![](diagrams/dashboard_img/dashboard.png)
+
+### Counties with Most EVs
+![](diagrams/dashboard_img/EV_ranking_chart.png)
+
+### Gasoline Vehicles to Electric Vehicles Ratio
+![](diagrams/dashboard_img/fossil_fuel.png)
+
+### Market Share by Fuel Types
+![](diagrams/dashboard_img/gastoEV.png)
+
+### Gas Station and Charging Station Movement
+![](diagrams/dashboard_img/marketshare.png)
+
+### Fossil Fuel Sales Analysis
+![](diagrams/dashboard_img/station.png)
 
 
 
