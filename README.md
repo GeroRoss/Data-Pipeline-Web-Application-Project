@@ -29,7 +29,7 @@ Raw Data → Data Cleaning (Pandas) → MySQL Database → Backend (Node.js) →
 
 
 ### Data Cleaning & Processing 
-(/data_cleaning/data_cleaning.ipynb)
+See full data cleaning process in [data_cleaning.ipynb](data_cleaning/data_cleaning.ipynb)
 - Standardized inconsistent year formats  
 - Removed invalid ZIP codes and unmatched records  
 - Filtered aggregated or ambiguous data  
